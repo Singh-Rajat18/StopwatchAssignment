@@ -4,7 +4,7 @@ import Stopwatch from './Stopwatch';
 
 function App() {
   return (
-    <div className='app'>
+    <div className='App'>
     <Stopwatch/>
     </div>
   );
